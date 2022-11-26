@@ -1,0 +1,5 @@
+Possible Sensive Resources:
+
+- .jsons
+- .xml
+- Every file/information that is not supose to be visible to anyone. # Maybe using Vault is a better way to use Sensive directory or to create Vault in Module's directory.
