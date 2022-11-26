@@ -14,11 +14,12 @@ testrun/*
 .~lock*
 *.pkl
 *.exe
-Module/Browsers/Chrome/*
-Module/OCR/Poppler/*
-Module/OCR/Tesseract/*
+Bot/Module/Browser/Chrome/*
+Bot/Module/OCR/Poppler/*
+Bot/Module/OCR/Tesseract/*
 *.zip
 *.tar.xz
-Sensive/*
+Bot/Sensive/*
 teste.pdf
 data.json
+.Manager/
