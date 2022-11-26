@@ -1,0 +1,12 @@
+tasks:
+  Run Python:
+    shell: python Bot.py
+
+condaConfigFile: conda.yaml
+artifactsDir: output
+PATH:
+  - .
+PYTHONPATH:
+  - .
+ignoreFiles:
+  - .gitignore
